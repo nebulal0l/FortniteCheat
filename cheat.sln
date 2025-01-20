@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2019
+VisualStudioVersion = 16.0.28719.162
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A6B8A39F-17A0-4C40-81D2-6D5E5C240CC6}") = "Aimbot", "Aimbot\Aimbot.cpp", "{4C34C4B0-29FF-4D6F-9449-B0C7D3A20B61}"
+EndProject
+Project("{A6B8A39F-17A0-4C40-81D2-6D5E5C240CC6}") = "Overlay", "Overlay\Overlay.cpp", "{F6E290F1-4A04-44AB-8E49-535EE6CB6A1A}"
+EndProject
+Project("{A6B8A39F-17A0-4C40-81D2-6D5E5C240CC6}") = "Mapper", "Mapper\Mapper.cpp", "{F5BB3781-4F8C-4F07-BD09-FC36A22BE66F}"
+EndProject
+Project("{A6B8A39F-17A0-4C40-81D2-6D5E5C240CC6}") = "Security", "Security\Security.cpp", "{D9C30F72-5A44-42F9-8215-B23214B40D22}"
+EndProject
+Project("{A6B8A39F-17A0-4C40-81D2-6D5E5C240CC6}") = "UI", "UI\UI.cpp", "{98B3F093-3125-41F1-B78A-3F6AC92BB474}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|x64 = Debug|x64
+        Release|x64 = Release|x64
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {4C34C4B0-29FF-4D6F-9449-B0C7D3A20B61}.Debug|x64.ActiveCfg = Debug|x64
+        {4C34C4B0-29FF-4D6F-9449-B0C7D3A20B61}.Debug|x64.Build.0 = Debug|x64
+        {F6E290F1-4A04-44AB-8E49-535EE6CB6A1A}.Debug|x64.ActiveCfg = Debug|x64
+        {F6E290F1-4A04-44AB-8E49-535EE6CB6A1A}.Debug|x64.Build.0 = Debug|x64
+        {F5BB3781-4F8C-4F07-BD09-FC36A22BE66F}.Debug|x64.ActiveCfg = Debug|x64
+        {F5BB3781-4F8C-4F07-BD09-FC36A22BE66F}.Debug|x64.Build.0 = Debug|x64
+        {D9C30F72-5A44-42F9-8215-B23214B40D22}.Debug|x64.ActiveCfg = Debug|x64
+        {D9C30F72-5A44-42F9-8215-B23214B40D22}.Debug|x64.Build.0 = Debug|x64
+        {98B3F093-3125-41F1-B78A-3F6AC92BB474}.Debug|x64.ActiveCfg = Debug|x64
+        {98B3F093-3125-41F1-B78A-3F6AC92BB474}.Debug|x64.Build.0 = Debug|x64
+    EndGlobalSection
+EndGlobal
